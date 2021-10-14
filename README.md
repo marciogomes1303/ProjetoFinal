@@ -24,3 +24,9 @@ As imagens abaixo são um exemplo de como vai ser a tela inicial no  site.
 ![rascunholojadesktop](https://user-images.githubusercontent.com/89934051/137380040-d4fb2282-fb9e-416e-8755-11fafe448c1c.jpg)
 
 ![rascunholojamobile](https://user-images.githubusercontent.com/89934051/137380054-ce82f7ec-06d5-435f-aac6-aecbdc5c88d3.jpg)
+
+
+Logos feitos por mim
+
+![logolojavabranco](https://user-images.githubusercontent.com/89934051/137401019-e19eb069-5290-4526-8b94-6976f482f7bc.jpg)
+![logolojajava](https://user-images.githubusercontent.com/89934051/137401023-1f226e5c-bdbd-4eca-b262-8bf3fcc772d1.jpg)
