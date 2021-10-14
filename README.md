@@ -14,6 +14,9 @@ https://www.maze.com.br/
 
 Etapa 2 - 06/10/2021
 ![Screenshot_20211006-221720_2](https://user-images.githubusercontent.com/89934051/136305867-cd193309-f92d-4bd5-8003-8f0ef14e678b.png)
+
+
+
 Etapa 3 - 07/10 /2021
 Fiz os rascunhos de como vai ser a minha loja mais ou menos (coisas vão ser mudadas),continuo me inspirando nos sites acima.
 No meu trabalho quero ter telas para sapatos masculinos e para sapatos femininos e uma tela para o login.
